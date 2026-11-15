@@ -1,1 +1,1 @@
-# GitHub-final-project
+# github-final-project
